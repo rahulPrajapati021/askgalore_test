@@ -18,6 +18,7 @@ Notes -
 1. Added environment variables in .env 
 didn't removed in git push for reference. 
 2. Error handling is not done properly. 
+3. Database configuration are done in db.js file (was getting issue with .env file)
 
 
 # User Routes
